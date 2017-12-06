@@ -1,4 +1,5 @@
 ## 个人在OJ平台代码记录
+
 | 平台    | 原题地址          | 代码地址     
 |---------- |-------------- |---------- |--------------------------------  |-------- |
 | leetcode | [1] [twosum](https://leetcode.com/problems/two-sum/)| [twosum](https://github.com/kurset/script-practice/blob/master/leetcode/1.js) |
