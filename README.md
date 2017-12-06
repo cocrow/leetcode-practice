@@ -1,7 +1,7 @@
 ## 个人在OJ平台代码记录
 
-| 平台    | 原题地址          | 代码地址     
-|---------- |-------------- |---------- |--------------------------------  |-------- |
+| 平台    | 原题地址          | 代码地址 |
+|---------- |-------------- |---------- |
 | leetcode | [1] [twosum](https://leetcode.com/problems/two-sum/)| [twosum](https://github.com/kurset/script-practice/blob/master/leetcode/1.js) |
 | leetcode | [2][add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [twosum](https://github.com/kurset/script-practice/blob/master/leetcode/2.js) |
 | leetcode | [3] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Longest Substring Without Repeating Characters](https://github.com/kurset/script-practice/blob/master/leetcode/3.js) |
