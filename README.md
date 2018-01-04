@@ -7,5 +7,6 @@
 | leetcode | [3] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Longest Substring Without Repeating Characters](https://github.com/kurset/script-practice/blob/master/leetcode/3.js) |
 | leetcode | [5] [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| [longest-palindromic-substring](https://github.com/kurset/script-practice/blob/master/leetcode/4.js) |
 | leetcode | [7] [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [Reverse Integer](https://github.com/kurset/script-practice/blob/master/leetcode/Reverse%20Integer.py) |
+| scriptoj | [86] [highlight](https://scriptoj.com/problems/86)| [highlight](https://github.com/kurset/script-practice/blob/master/scriptoj/highlight.js) |
 | scriptoj | [99] [Reverse Integer](https://scriptoj.com/problems/99)| [Reverse Integer](https://github.com/kurset/script-practice/blob/master/scriptoj/safeGet.js) |
 | scriptoj | [97] [injectSections](https://scriptoj.com/problems/94)| [injectSections](https://github.com/kurset/script-practice/blob/master/scriptoj/injectSections.js) |
